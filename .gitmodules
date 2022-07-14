@@ -1,3 +1,6 @@
 [submodule "neurips2020-flatland-starter-kit"]
 	path = neurips2020-flatland-starter-kit
 	url = git@gitlab.aicrowd.com:flatland/neurips2020-flatland-starter-kit.git
+[submodule "neurips2020-flatland-baselines"]
+	path = neurips2020-flatland-baselines
+	url = git@gitlab.aicrowd.com:flatland/neurips2020-flatland-baselines.git
